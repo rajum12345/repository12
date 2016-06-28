@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21524" started-at="2016-06-27T07:27:22Z" finished-at="2016-06-27T07:27:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21524" started-at="2016-06-27T07:27:22Z" finished-at="2016-06-27T07:27:43Z">
+      <class name="win_components.Fileupload_Robot">
+        <test-method status="PASS" signature="fileUpload()[pri:0, instance:win_components.Fileupload_Robot@146e1f4]" name="fileUpload" duration-ms="21473" started-at="2016-06-27T12:57:22Z" finished-at="2016-06-27T12:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileUpload -->
+      </class> <!-- win_components.Fileupload_Robot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
